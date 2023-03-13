@@ -1,0 +1,40 @@
+.navbar {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  height: 65px;
+  background-color: rgb(0, 47, 109);
+  margin: 0;
+  border-bottom: 1px solid rbda(255, 255, 255, 0.1);
+}
+
+.flex-container {
+  position: relative;
+  height: 65px;
+  top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  display: inline;
+  margin-right: 15px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-style: italic;
+}
+
+header {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  top: 0;
+}
+
+h1 {
+  padding-left: 1rem;
+}
