@@ -21,7 +21,7 @@ Run `git clone https://github.com/timmy647/technical-assessment.git` to pull the
 
 ### Install package
 
-Run 'npm install' at the root directory of the project to install all required packages for this project.
+Run `npm install` at the root directory of the project to install all required packages for this project.
 
 ### Build (Optional)
 
