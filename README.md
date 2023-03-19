@@ -15,9 +15,9 @@ This is project is for the assessment purpose, and it shows contacts details wit
 
 ## How to run the code
 
-### Git Pull
+### Git Clone
 
-Run `git pull` to pull the git repository to local disk.
+Run `git clone https://github.com/timmy647/technical-assessment.git` to pull the git repository to local disk.
 
 ### Install package
 
